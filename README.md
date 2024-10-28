@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://github.com/user-attachments/assets/2b04a2a0-1f79-4bdd-a326-cfb67cd3f6da)
+![BANEER](https://github.com/user-attachments/assets/a3b9caf3-97f3-414e-870c-4f00fe59c4e9)
 
 - 🔭 I’m currently working on programacion
 - 🌱 I’m currently learning base de datos en html
