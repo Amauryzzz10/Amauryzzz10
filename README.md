@@ -1,19 +1,6 @@
 ## Hi there 👋
-![Uploading Black Flatlay Photo Motivational Finance Quote Facebook Cover.png…]()
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://github.com/user-attachments/assets/2b04a2a0-1f79-4bdd-a326-cfb67cd3f6da)
 
 - 🔭 I’m currently working on programacion
 - 🌱 I’m currently learning base de datos en html
