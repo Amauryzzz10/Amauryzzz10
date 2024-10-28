@@ -1,5 +1,9 @@
 ## Hi there 👋
-![banner2 0](https://github.com/user-attachments/assets/50dfb6b5-9485-408b-846c-98a04f06aab0)
+![Uploading Black Flatlay Photo Motivational Finance Quote Facebook Cover.png…]()
+
+
+
+
 - 🔭 I’m currently working on programacion
 - 🌱 I’m currently learning base de datos en html
 - 👯 I’m looking to collaborate on html
