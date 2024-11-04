@@ -1,5 +1,12 @@
 ## Hi there 👋
 ![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://github.com/user-attachments/assets/d87cb041-de13-452c-9e14-fa3ebc953487) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/jafetsantos0?style=social)](https://twitter.com/jafetsantos0)
+[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCTYtyUOMN1PltK-oG8VT4Ug?style=social)](https://www.youtube.com/channel/maldonadoamaury)
+[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-blue?style=social&logo=facebook)](https://www.facebook.com/jafet.santos.52)
+[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-purple?style=social&logo=instagram)](https://www.instagram.com/santosjafetisai777)
+
+
+
 
 - 🔭 I’m currently working on programacion
 - 🌱 I’m currently learning base de datos en html
