@@ -19,14 +19,14 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende a instalar Visual Studio en 1 minuto <strong>Como instalar VS code</strong> - En este video aprenderás de forma facil y práctica a como instalar Visual Studio Code.</p>
+<p>Aprende como iniciar una cuenta en GitHub y a crear un repositorio</p>
 </div>
 
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">CURSO BÁSICO DE HTML</h3>
+<h3 align="center">Instalar extensiones en Visual</h3>
 <div align="center">
 <a href="https://github.com/Amauryzzz10" target="_blank"><img src="portada 2.jpeg" width="400" alt="Como instalar extensiones en Visual"></a>
 <p>
@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
-<p>Aprende a programar en HTML en 1 minuto <strong>Como podras programar en HTML de forma sencilla</strong> - En este curso aprenderás todo lo necesario para iniciar con tu primer página simple de HTML.</p>
+<p>Aprende a instalar muchas extensiones en VIsual Studio Code</p>
 </div>
   
 </td>  
