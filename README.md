@@ -15,7 +15,7 @@
 <a href="https://github.com/Amauryzzz10" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/watch?v=jHd3S6SwmrI"_blank">
+<a href="https://www.youtube.com/watch?v=9jRu03Glt6Q"_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
@@ -28,12 +28,12 @@
                <br>
 <h3 align="center">CURSO BÁSICO DE HTML</h3>
 <div align="center">
-<a href="https://github.com/13k13k13/13k13k13" target="_blank"><img src="portada 2.jpeg" width="400" alt="Curso básico HTML con CSS"></a>
+<a href="https://github.com/Amauryzzz10" target="_blank"><img src="portada 2.jpeg" width="400" alt="Como instalar extensiones en Visual"></a>
 <p>
-<a href="https://github.com/13k13k13/13k13k13"_blank">
+<a href="https://github.com/Amauryzzz10"_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ffffff?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/watch?v=96DYOSqOuVc"_blank">
+<a href="https://www.youtube.com/watch?v=nAZR9wfE59M&t=37s"_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=d8392c">
 </a>
 </p>
