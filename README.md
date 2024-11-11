@@ -56,4 +56,6 @@
 - 🤔 I’m looking for help with programar
 - 💬 Ask me about programas
 - 📫 How to reach me: por instagram
-- 😄 Pronouns: tumbao
+- 😄 Pronouns: he/him
+  
+
